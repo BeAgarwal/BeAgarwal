@@ -3,7 +3,7 @@
 **BeAgarwal/BeAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m a MCA student @CEG, Anna University, Chennai.
-- 🌱 I’m currently learning Data Science and Engineering.
+- 🌱 I’m currently learning Data Science and Data Engineering.
 - 👯 I’m looking to collaborate on ML projects.
 - 💬 Ask me about Big Data, and Data Engineering.
 - 📫 How to reach me: Active on [Linkedin](https://www.linkedin.com/in/beagarwal/)
