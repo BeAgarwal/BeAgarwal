@@ -3,9 +3,9 @@
 **BeAgarwal/BeAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m a MCA student @CEG, Anna University, Chennai.
-- 🌱 I’m currently learning Data Science and Data Engineering.
+- 🌱 I’m currently a Software Developer Intern at Tutree working on Gin-Gonic HTTP framework in Golang.
 - 👯 I’m looking to collaborate on ML projects.
-- 💬 Ask me about Big Data, and Data Engineering.
+- 💬 Ask me about Data Structures, Algorithms, Big Data and  for end-to-end Projects.
 - 😄 Pronouns: He/Him
 - ⚡ About Me: I enjoy eating sweets, dark chocolate, fast food, mangoes, and almost anything that has cheese in it.
 
