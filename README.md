@@ -1,9 +1,9 @@
 <h1 align="center">Hallo👋, Ich Bin Shubham Agarwal</h1>
-<!--
-**BeAgarwal/BeAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+<img align="right" src="https://user-images.githubusercontent.com/46283159/127903039-72b2d655-4748-4e6b-812e-1acbd96244ac.png" height="300px" width="400px">
 
 - 🔭 I’m a MCA student @CEG, Anna University, Chennai.
-- 🌱 I’m currently a Software Developer Intern at Tutree working on Gin-Gonic HTTP framework in Golang.
+- 🌱 I’m currently a **Software Developer Intern at Tutree** working on Gin-Gonic HTTP framework in Golang & **Incoming SDE at Accolite Digital**.
 - 👯 I’m looking to collaborate on any Backend projects.
 - 💬 Ask me about Data Structures, Algorithms, Big Data , Backend and for end-to-end Projects.
 - 😄 Pronouns: He/Him
