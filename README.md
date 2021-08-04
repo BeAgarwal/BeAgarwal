@@ -27,7 +27,7 @@
   <img src="https://profile-counter.glitch.me/Beagarwal/count.svg" />
 </p>
 
-[website]: http://beagarwal.com/
+[website]: https://beagarwal.com/
 [twitter]: https://twitter.com/beagarwal
 [instagram]: https://www.instagram.com/beagarwal
 [linkedin]: https://www.linkedin.com/in/beagarwal/
