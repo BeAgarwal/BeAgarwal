@@ -23,7 +23,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BeAgarwal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" /> </p>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count (from 02-08-2021)<br>
   <img src="https://profile-counter.glitch.me/Beagarwal/count.svg" />
 </p>
 
