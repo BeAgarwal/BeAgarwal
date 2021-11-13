@@ -8,6 +8,8 @@
 - 💬 Ask me about Data Structures, Algorithms, Big Data , Backend and for end-to-end Projects.
 - 😄 Pronouns: He/Him
 - ⚡ About Me: I enjoy eating sweets, dark chocolate, fast food, mangoes, and almost anything that has cheese in it.
+ 
+## Update: Mostly busy in College and Internship.
 
 ### Connect with me. 📫
 
